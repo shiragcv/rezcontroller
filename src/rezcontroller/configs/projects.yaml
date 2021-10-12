@@ -1,0 +1,11 @@
+prj-a:
+  - einer:alpha
+  - maya:2020
+
+prj-b:
+  - einer:beta
+  - maya:2020
+
+prj-r:
+  - einer:release
+  - maya-2019.3.1
