@@ -1,8 +1,8 @@
 # Packages --------------------------------------------------------------------
 
 einer:
-  alpha: 'einer-2.0.0-alpha'
-  beta: 'einer-2.0.0-beta'
+  alpha: 'einer-2.0.0-alpha.1'
+  beta: 'einer-2.0.0-beta.1'
   release: 'einer==2.0.0'
   latest: 'einer'
 
