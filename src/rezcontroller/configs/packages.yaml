@@ -1,15 +1,17 @@
 # Packages --------------------------------------------------------------------
 
 einer:
-  alpha: 'einer-2.0.0-alpha.2'
-  beta: 'einer-2.0.0-beta.1'
-  release: 'einer-2.0.0'
+  alpha: 'einer-2.0.0-alpha'
+  beta: 'einer-2.0.0-beta'
+  release: 'einer==2.0.0'
+  latest: 'einer'
 
 zwei:
-  release: 'zwei-1.0.0'
+  release: 'zwei==1.0.0'
+  latest: 'zwei'
 
 # DCCs (Autodesk Maya) --------------------------------------------------------
 
 maya:
-  '2020': 'maya-2020.4.0-build.2'
-  '2019': 'maya-2019.3.1-build.2'
+  '2020': 'maya==2020.4.0-build.2'
+  '2019': 'maya==2019.3.1-build.2'
