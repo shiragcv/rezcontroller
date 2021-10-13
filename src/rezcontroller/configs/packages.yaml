@@ -3,7 +3,7 @@
 einer:
   alpha: 'einer-2.0.0-alpha.2'
   beta: 'einer-2.0.0-beta.1'
-  release: 'einer-2.0.1'
+  release: 'einer-2.0.0'
 
 zwei:
   release: 'zwei-1.0.0'
