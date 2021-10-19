@@ -9,3 +9,4 @@ prj-b:
 prj-r:
   - einer:release
   - maya:2019
+  - nuke
